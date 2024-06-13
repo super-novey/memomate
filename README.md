@@ -1,1 +1,1 @@
-### Welcome to Memomate
+## Memomate - An android app in java
