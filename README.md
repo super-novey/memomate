@@ -19,6 +19,12 @@ Profile page              |  Studyset detail page      |
 |![image](https://github.com/super-novey/memomate/assets/97286749/1fb857fa-6e6b-49e6-9381-5adc067ffc95)|![image](https://github.com/super-novey/memomate/assets/97286749/ddbfc9e9-67da-4ff9-8c4b-56f780fe8076)|
 
 
+## Contributors
+* [Nguyen Anh Duy](https://github.com/super-novey)
+* [Phan Ngoc Han](https://github.com/nghaan181003)
+* [Tran Thanh Hoa](https://github.com/harrydyhasi)
+
+
 
 
 
