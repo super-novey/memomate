@@ -1,5 +1,10 @@
 ## Memomate - An android app in java
-
+## Description
+A android java app to provide learning tools for students, including flashcards, study and game modes. The main functions of the Memomate app include:
+* Flashcards: Users can create their own flashcards. Flashcard include term and definition to cater to different learning styles.
+* Learnmode: This feature helps learner study and memorize information by providing a structured learning process.
+* Match games: In Match, users pair terms with their definitions
+* Classes and Study Groups: User can join classes or study groups tp share flashcards and collaborate with classmates or other learners.
 ## Screenshots
 Welcome Page                |  Login page           |   Signup page       | Forgot username page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
